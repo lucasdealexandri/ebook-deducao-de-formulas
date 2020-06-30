@@ -1,0 +1,1 @@
+#Deduzindo fórmulas físicas conhecidas
