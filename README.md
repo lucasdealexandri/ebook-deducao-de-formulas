@@ -8,4 +8,4 @@ Esse repositório está disponível para a realização de um e-book que tem com
 
 ## Aplicações / linguagens utilizadas
 
-Os textos por agora estão sendo escritos em forma de rascunho no aplicativo Xournal++, mas o intuito é passar para LaTeX no Overleaf; figuras provavelmente serão feitas no Inkscape ou no IPE, ambos aplicações gratuitas de desenho vetorial.
+Os textos por agora estão sendo escritos em forma de rascunho no aplicativo Xournal++ (as extensões .xopp são dele), mas o intuito é passar para LaTeX no Overleaf; figuras provavelmente serão feitas no Inkscape ou no IPE, ambos aplicações gratuitas de desenho vetorial.
