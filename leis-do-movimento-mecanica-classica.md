@@ -10,3 +10,9 @@ Você deve se perguntar. Simples! Eles permanecem os mesmos, independente de qua
 
 Maravilha! Agora que temos uma pequena noção do que é uma constante, podemos seguir em frente! Cada equação da cinemática assume algo como constante. Se sua posição é constante, então você está parado e nada muito interessante acontece; se sua velocidade é constante, então está em movimento e equações como $$s = s_0 + vt$$\(sorvete\) surgem, nesse caso, dizemos que sua posição se altera de maneira _**linear**_ \(veremos o porquê mais pra frente\). Se sua aceleração é constante, então temos $$v = v_0 +at$$\(vovô ateu\), $$s = s_0 + v_0t+\frac{1}{2}at^2$$\(sorvetão\) e $$v^2=v_0{}^2+2a\Delta s$$ \(Torricelli\).
 
+$$
+v=cte\\
+\int_{0}^t vdt = vt =\int_0^t \dfrac{ds}{dt}dt = s(t)-s_0\\
+vt = s(t) - s_0 \longrightarrow s(t) = s_0 + vt
+$$
+
