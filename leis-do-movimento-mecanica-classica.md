@@ -16,3 +16,13 @@ v=cte\\
 vt = s(t) - s_0 \longrightarrow s(t) = s_0 + vt
 $$
 
+$$
+a = cte\\
+\int_0^tadt=at=\int_0^t\frac{dv}{dt}dt=v(t)-v_0\\
+at=v(t)-v_0 \longrightarrow v(t) = v_0 + at\\
+\int_0^t v(t)dt=\int_0^t(v_0+at)dt =v_0t+\frac{1}{2}at^2\\
+=\int_0^t\frac{ds}{dt}dt = s(t) - s_0\\
+s(t) - s_0 = v_0t+\frac{1}{2}at^2\\
+s(t) =s_0 + v_0t+\frac{1}{2}at^2
+$$
+
